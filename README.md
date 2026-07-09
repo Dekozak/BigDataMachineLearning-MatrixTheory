@@ -37,7 +37,7 @@ Each module states the theorem in its docstring and implements the finite comput
 ## Quick start
 
 ```bash
-git clone https://github.com/you/matrix-ml
+git clone https://github.com/Dekozak/BigDataMachineLearning-MatrixTheory
 cd matrix-ml
 pip install -e ".[dev]"
 pytest                       # ~1 s: Eckart-Young, JL, Cheeger, Perron-Frobenius, ...
